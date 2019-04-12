@@ -1,0 +1,16 @@
+{
+	"name": "com.dinlygo.imsdk",
+	"displayName": "IMSDK",
+	"description": "IMSDK libraries",
+	"version": "0.8.1",
+	"unity": "2018.3",
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/doanvantuan/testlib.git"
+	},
+	"src": "Assets/IMSDK",
+	"author": "mob-sakai <tuan.doan@lihuhugames.com> (https://github.com/doanvantuan)",
+	"dependencies": {
+	}
+}

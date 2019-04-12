@@ -2,7 +2,7 @@
 	"name": "com.dinlygo.imsdk",
 	"displayName": "IMSDK",
 	"description": "IMSDK libraries",
-	"version": "0.8.1",
+	"version": "0.8.2",
 	"unity": "2018.3",
 	"license": "MIT",
 	"repository": {
